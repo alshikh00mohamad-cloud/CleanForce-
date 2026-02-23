@@ -1,0 +1,5 @@
+{
+  "name": "CleanForce ERP",
+  "description": "Das ERP-System für die deutsche Gebäudereinigung",
+  "requestFramePermissions": ["geolocation"]
+}
